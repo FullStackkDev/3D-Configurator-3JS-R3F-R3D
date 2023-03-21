@@ -6,7 +6,7 @@ A product configurator made using ThreeJS, React-Three-Fiber and React-Three-Dre
 
 #### Clone the repository
 
-https://github.com/FullStackkDev/tic-tac-toe-3JS-R3F-R3D.git
+https://github.com/FullStackkDev/3D-Configurator-3JS-R3F-R3D.git
 
 #### Version number
 
